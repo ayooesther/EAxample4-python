@@ -7,6 +7,7 @@ class MpesaAccount:
 		 self.deposits=[]
 		 self.withdrawals=[]
 		 self.loan=0
+		 loan_repayment=[]
 
 
 	def check_balance(self):
